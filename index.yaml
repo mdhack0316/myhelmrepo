@@ -3,7 +3,7 @@ entries:
   mayankapp:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-08-14T07:46:00.426627444Z"
+    created: "2024-08-14T07:54:17.199847784Z"
     description: A Helm chart for Kubernetes
     digest: ad51130f8aa21e78de3d3c6b705b67b368f0ca0c8ace4ec99c3f99b734921361
     name: mayankapp
@@ -11,4 +11,15 @@ entries:
     urls:
     - Package/mayankapp-1.1.0.tgz
     version: 1.1.0
-generated: "2024-08-14T07:46:00.425333777Z"
+  mayankdemo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-14T07:54:17.200781197Z"
+    description: A Helm chart for Kubernetes
+    digest: 3a27e5e7e6b3cd0323a9ebb7a8795d9be79c94337a7afc6c7b0f1b8b275bb9bb
+    name: mayankdemo
+    type: application
+    urls:
+    - Package/mayankdemo-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-08-14T07:54:17.198929632Z"
